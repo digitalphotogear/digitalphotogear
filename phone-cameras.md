@@ -18,7 +18,7 @@ This page lists the top ranked cell phone cameras. Choose whatever manufacturer 
 - Memory: 128 GB / 256 GB / 512 GB / 1 TB
 - Power Input: USB-C 
 - Charging Input Power: 45w
-- Stereo: Yes
+- Stereo Speakers: Yes
 - IP Rating: IP68
 - Links
     - [Official Product Page](https://store.google.com/us/product/pixel_9_pro)
@@ -27,15 +27,15 @@ This page lists the top ranked cell phone cameras. Choose whatever manufacturer 
 
 - Positives: Currently the highest ranked of the popular phone models in terms of camera performance
 - Negatives: Screen isn't as big as the XL model, battery is a little smaller
-- Dimensions: 6.4 x 3 x 0.3 inches / 162.8 x 76.6 x 8.5 mm
-- Weight: 7.8oz / 221g
+- Dimensions: 6 x 2.8 x 0.3 inches / 162.8 x 76.6 x 8.5 mm
+- Weight: 7.0oz / 199g
 - Display: 6.3" 1280 x 2856 LTPO OLED at 495 PPI
 - Battery Capacity: 4700 mAh
 - Ram: 16GB
 - Memory: 128 GB / 256 GB / 512 GB / 1 TB
 - Power Input: USB-C 
 - Charging Input Power: 45w
-- Stereo: Yes
+- Stereo Speakers: Yes
 - IP Rating: IP68
 - Links
     - [Official Product Page](https://store.google.com/us/product/pixel_9_pro)
