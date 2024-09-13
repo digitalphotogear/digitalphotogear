@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: Speaker Ranking
+title: Digital Photo Gear
 
 # Your name to show in the footer
-author: Obvious-Bird-3588
+author: lurkingsoftly
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -36,7 +36,7 @@ navbar-links:
 #    - Learn markdown: "https://www.markdowntutorial.com/"
 #  Author's home: "https://deanattali.com"
 
-#  Obvious-Bird-3588: "https://www.reddit.com/user/Obvious-Bird-3588/"
+#  lurkingsoftly: "https://www.reddit.com/user/lurkingsoftly/"
 
 ################
 # --- Logo --- #
