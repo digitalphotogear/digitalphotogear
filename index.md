@@ -7,7 +7,7 @@ Digital Photo Gear makes it easy to figure out in minutes exactly what camera eq
 
 ### Introduction
 
-Phone cameras have advanced greatly within the last few years to the point where I don't bring along my mirrorless camera on vacation unless I'm shooting wildlife or looking to take top tier photos. I'd highly recommend first picking up a cell phone with a fantastic camera. This is the one camera you will always have on you, so it's better to not cheap out.
+Phone cameras have advanced greatly within the last few years to the point where I don't bring along my mirrorless camera on vacation unless I'm shooting wildlife or looking to take top tier photos. I'd highly recommend first picking up a cell phone with a fantastic camera. This is the one camera you will always have on you, so it's better to choose a great one.
 
 
 ### Cameras
