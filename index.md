@@ -3,7 +3,7 @@ layout: home
 title: Digital Photo Gear
 ---
 
-Digital Photo Gear makes it easy to figure out in minutes what camera equipment makes sense for the type of photography you plan to do and budget that you have. Researching the internet or other sites would take hours or days.
+Digital Photo Gear makes it easy to figure out in minutes what camera equipment makes sense for the type of photography you plan to do and budget that you have. Researching the internet or other sites can easily take hours or days.
 
 ### Introduction
 
