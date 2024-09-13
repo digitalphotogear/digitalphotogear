@@ -3,7 +3,7 @@ layout: home
 title: Digital Photo Gear
 ---
 
-Digital Photo Gear makes it easy to figure out in minutes exactly what camera equipment makes sense for the type of photography you plan to do and budget that you have.
+Digital Photo Gear makes it easy to figure out in minutes what camera equipment makes sense for the type of photography you plan to do and budget that you have. Researching the internet or other sites would take hours or days.
 
 ### Introduction
 
@@ -11,7 +11,7 @@ Phone cameras have advanced greatly within the last few years due to increased s
 
 DSLRs and mirrorless cameras will be a step up in many ways from the best camera phones especially in terms of their sensor size for gathering lower light and higher dynamic range and their ability to swap lenses.
 
-Fixed lens cameras do still have a time and place, although are being squashed out by the increased performance of camera phones and are pretty much displaced for normal use. One remaining use of fixed lens cameras is during concerts and sports events where detachable lens cameras are banned.
+Fixed lens cameras do still have a time and place, although they are being squashed out by the increased performance of camera phones and are pretty much obsolete for most uses. One remaining use of fixed lens cameras is during concerts and sports events where detachable lens cameras are banned but you need a longer zoom than a camera phone can provide.
 
 ### Cameras
 - [Cell Phone Cameras](phone-cameras)
