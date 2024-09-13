@@ -4,7 +4,7 @@ title: Cell Phone Cameras
 comments: true
 ---
 
-This page lists the top ranked cell phone cameras from major brands. Choose whatever manufacturer feels the most comfortable to you. All the phones on this page are good enough for high end use. See [DXOmark](https://www.dxomark.com/smartphones/) for more details of camera performance.
+This page lists the top ranked cell phone cameras from major brands. Choose whatever manufacturer feels the most comfortable to you. All the phones on this page are good enough for high end use. See [DXOmark](https://www.dxomark.com/smartphones/) for more details of camera performance. I'd recommend sticking with one of the top manufacturers (Google, Apple, Samsung) due to better software support, bugfixes and future updates.
 
 ### #1 [Google Pixel 9 Pro XL](https://www.amazon.com/Google-Pixel-Pro-XL-Smartphone/dp/B0D7HSJ7ZP?crid=3UIQYDRYY0K8F&dib=eyJ2IjoiMSJ9.O9Hqo1tiQ6ThQtkeaw4ka3OeW95ijWZWokDDSrAN256kIUIjgT5E2iDX76BuEgwEkDTJrd_iI3iLQIgFCa-tgT1kaqntcR7N4KidC6poIbu7dPoJmeHmULnXQ5LYtrD2Du-86wtpePP8pccAcUqqAGpS1S7POyM1MOF4BXaEgj3kIsIeqTNEEbiK2C9ULqZ7p5Twp8UY7IqoEQ3Gn84dgqUDx_inbE9Hrp74V4TI3io.N_eDNpz4cfWvg5eLf9cFCghJpsXfX0tmmdBRxZBEZyk&dib_tag=se&keywords=pixel%2B9%2Bpro%2Bxl&qid=1726199074&sprefix=pixel%2B9%2Bpro%2Bxl%2B%2Caps%2C245&sr=8-1-spons&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=f50beacf79ac7f8ab6656e0f97b6cfe3&language=en_US&ref_=as_li_ss_tl): $1100-$1550
 
@@ -49,6 +49,14 @@ This page lists the top ranked cell phone cameras from major brands. Choose what
     - [Official Product Page](https://store.google.com/us/product/pixel_9_pro)
 
 ### #3 [Apple iPhone 15 Pro Max](https://www.amazon.com/s?k=iphone+15+pro+max&crid=JSNB7WG5N6ZQ&sprefix=iphone+15+pro+ma%2Caps%2C192&linkCode=ll2&tag=rankingspea01-20&linkId=c717613cc4b80cdb599535fab71a6b14&language=en_US&ref_=as_li_ss_tl): $1000+
+- Positives: High camera performance, popular among professional photographers
+- Negatives: Expensive and large form factor may not be suitable for everyone
+- Dimensions: 6.3 x 3 x 0.3 inches / 160.8 x 77.6 x 7.9 mm
+- Weight: 7.6oz / 218g
+- Display: 6.7" 1290 x 2796 LTPO OLED at 460 PPI
+- Battery Capacity: 4820 mAh
+- Ram: 12GB
+- Memory: 128 GB / 256 GB / 512 GB / 1 TB
 
 ### #4 [Apple iPhone 15 Pro](https://www.amazon.com/s?k=iphone+15+pro&crid=JSNB7WG5N6ZQ&sprefix=iphone+15+pro+ma%2Caps%2C192&linkCode=ll2&tag=rankingspea01-20&linkId=c717613cc4b80cdb599535fab71a6b14&language=en_US&ref_=as_li_ss_tl): $714+
 
