@@ -16,7 +16,10 @@ This page lists the top ranked cell phone cameras. Choose whatever manufacturer 
 - Battery Capacity: 5060 mAh
 - Ram: 16GB
 - Memory: 128 GB / 256 GB / 512 GB / 1 TB
-- Power Input: USB-C 
+- Wide Camera: 50 MP Octa PD wide camera ƒ/1.68 aperture 82° field of view 1/1.31" image sensor size
+- Ultrawide Camera: 48 MP Quad PD ultrawide camera with autofocus ƒ/1.7 aperture 123° field of view 1/2.55" image sensor size
+- Telephoto Camera: 48 MP Quad PD telephoto camera ƒ/2.8 aperture 22° field of view 5x optical zoom Super Res Zoom up to 30x 1/2.55" image sensor size
+ - Power Input: USB-C 
 - Charging Input Power: 45w
 - Stereo Speakers: Yes
 - IP Rating: IP68
@@ -33,6 +36,9 @@ This page lists the top ranked cell phone cameras. Choose whatever manufacturer 
 - Battery Capacity: 4700 mAh
 - Ram: 16GB
 - Memory: 128 GB / 256 GB / 512 GB / 1 TB
+- Wide Camera: 50 MP Octa PD wide camera ƒ/1.68 aperture 82° field of view 1/1.31" image sensor size
+- Ultrawide Camera: 48 MP Quad PD ultrawide camera with autofocus ƒ/1.7 aperture 123° field of view 1/2.55" image sensor size
+- Telephoto Camera: 48 MP Quad PD telephoto camera ƒ/2.8 aperture 22° field of view 5x optical zoom Super Res Zoom up to 30x 1/2.55" image sensor size
 - Power Input: USB-C 
 - Charging Input Power: 45w
 - Stereo Speakers: Yes
