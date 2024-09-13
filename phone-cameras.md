@@ -19,6 +19,7 @@ This page lists the top ranked cell phone cameras from major brands. Choose what
 - Wide Camera: 50 MP Octa PD wide camera ƒ/1.68 aperture 82° field of view 1/1.31" image sensor size
 - Ultrawide Camera: 48 MP Quad PD ultrawide camera with autofocus ƒ/1.7 aperture 123° field of view 1/2.55" image sensor size
 - Telephoto Camera: 48 MP Quad PD telephoto camera ƒ/2.8 aperture 22° field of view 5x optical zoom Super Res Zoom up to 30x 1/2.55" image sensor size
+- Front Camera: 42 MP Dual PD selfie camera with autofocus ƒ/2.2 aperture 103° ultrawide field of view
  - Power Input: USB-C 
 - Charging Input Power: 45w
 - Stereo Speakers: Yes
@@ -39,6 +40,7 @@ This page lists the top ranked cell phone cameras from major brands. Choose what
 - Wide Camera: 50 MP Octa PD wide camera ƒ/1.68 aperture 82° field of view 1/1.31" image sensor size
 - Ultrawide Camera: 48 MP Quad PD ultrawide camera with autofocus ƒ/1.7 aperture 123° field of view 1/2.55" image sensor size
 - Telephoto Camera: 48 MP Quad PD telephoto camera ƒ/2.8 aperture 22° field of view 5x optical zoom Super Res Zoom up to 30x 1/2.55" image sensor size
+- Front Camera: 42 MP Dual PD selfie camera with autofocus ƒ/2.2 aperture 103° ultrawide field of view
 - Power Input: USB-C 
 - Charging Input Power: 45w
 - Stereo Speakers: Yes
