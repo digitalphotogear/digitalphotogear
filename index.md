@@ -12,8 +12,8 @@ Phone cameras have advanced greatly within the last few years to the point where
 
 ### Cameras
 - [Cell Phone Cameras](phone-cameras)
-- [Digital DSLR and Mirrorless Camera Bodies](camera-bodies)
-- [Digital Fixed Lens Camera Bodies](camera-bodies)
+- [Digital DSLR and Mirrorless Camera Bodies](detachable-lens-cameras)
+- [Digital Fixed Lens Cameras](fixed-lens-cameras)
 
 ### Lenses
 - [General Use Lenses](general-use-lenses)
