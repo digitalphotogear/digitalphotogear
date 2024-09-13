@@ -3,11 +3,16 @@ layout: home
 title: Digital Photo Gear
 ---
 
-Digital Photo Gear makes it easy to figure out in minutes exactly what camera equipment makes sense for the type of photography and budget that you have.
+Digital Photo Gear makes it easy to figure out in minutes exactly what camera equipment makes sense for the type of photography you plan to do and budget that you have.
 
 ### Camera Bodies
 
 ### Lenses
+[General Use Lenses](general-use-lenses)
+[Landscape Lenses](landscape-lenses)
+[Portrait Lenses](portrait-lenses)
+[Sports Lenses](sports-lenses)
+[Macro Lenses](macro-lenses)
 
 ### Information
 
