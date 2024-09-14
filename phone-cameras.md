@@ -59,27 +59,201 @@ This page lists the top ranked cell phone cameras from major brands. Choose what
 - Memory: 128 GB / 256 GB / 512 GB / 1 TB
 
 ### #4 [Apple iPhone 15 Pro](https://www.amazon.com/s?k=iphone+15+pro&crid=JSNB7WG5N6ZQ&sprefix=iphone+15+pro+ma%2Caps%2C192&linkCode=ll2&tag=rankingspea01-20&linkId=c717613cc4b80cdb599535fab71a6b14&language=en_US&ref_=as_li_ss_tl): $714+
+- Positives: A17 Pro chip, 48 MP camera, smooth continuous zoom
+- Negatives: Limited to 3x zoom, incremental improvements
+- Dimensions: 146.6 x 70.6 x 8.3 mm
+- Weight: 187g
+- Display: 6.1 inches, 2556 x 1179 resolution, 460 PPI, OLED
+- Battery Capacity: 3274 mAh
+- Ram: 8GB
+- Memory: 128GB, 256GB, 512GB, 1TB
+- Wide Camera: 48 MP
+- Ultrawide Camera: 12 MP
+- Telephoto Camera: 12 MP with 3x zoom
+- Front Camera: 12 MP
+- Power Input: USB-C
+- Charging Input Power: 20W
+- Stereo Speakers: Yes
+- IP Rating: IP68
+- Links: [Apple iPhone 15 Pro](https://www.apple.com)
 
 ### #5 [Google Pixel 9](https://www.amazon.com/Google-Pixel-Unlocked-Smartphone-Porcelain/dp/B0D7HWPR3J?crid=9DTLVXKY3S2N&dib=eyJ2IjoiMSJ9.dedZ7FM-GIoJc0TdpU9xKyh7oXKcw6bFAw6-uAumFPBhyD-ngYa3gSxO7ZynIMijaaBCeN5snvdeQ66JGOubLNg7maAXitcMgZzp0fOMXvLhIR6UruW4CLogjzRIgksMNKO4w_mq0nm2TAZa7jzmeU5Nl6FUazURrFZCnP43CddS53CoMXQ7N7IuVeAl_rLx-lidz70BYssRXZx6lreojSU1GlOAf7wLJC5_6GzTHYI.4H8QEqepYWX1KapTS8tL4JFpDO8TCc08dssq3FS5YGs&dib_tag=se&keywords=google%2Bpixel%2B9&qid=1726204049&sprefix=google%2Bpixel%2B9%2Caps%2C160&sr=8-1-spons&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=aca5f24d916edf7baa2027010f13fbfd&language=en_US&ref_=as_li_ss_tl): $800
+- Positives: Great value for the price, clean software experience, excellent camera quality
+- Negatives: No telephoto camera, battery life could be better
+- Dimensions: 155.6 x 72.2 x 8.4 mm
+- Weight: 185g
+- Display: 6.2 inches, 1080 x 2400 resolution, 416 PPI, OLED
+- Battery Capacity: 4600 mAh
+- Ram: 8GB
+- Memory: 128GB, 256GB
+- Wide Camera: 50 MP
+- Ultrawide Camera: 12 MP
+- Front Camera: 12 MP
+- Power Input: USB-C
+- Charging Input Power: 30W
+- Stereo Speakers: Yes
+- IP Rating: IP68
+- Links: [Google Store](https://store.google.com)
+
 
 ### #6 [Google Pixel 8 Pro](https://www.amazon.com/s?k=pixel+8+pro&crid=2BUY9IQ8BB8D5&sprefix=pixel+8+pro%2Caps%2C161&linkCode=ll2&tag=rankingspea01-20&linkId=0d94dc129ecc70956f4d875d1a780b6a&language=en_US&ref_=as_li_ss_tl): $624+
+- Positives: Superb camera system, Tensor G3 chip, refined software experience
+- Negatives: Slightly heavier than previous models, expensive
+- Dimensions: 162.6 x 76.5 x 8.8 mm
+- Weight: 213g
+- Display: 6.7 inches, 1344 x 2992 resolution, 489 PPI, OLED
+- Battery Capacity: 5050 mAh
+- Ram: 12GB
+- Memory: 128GB, 256GB, 512GB
+- Wide Camera: 50 MP
+- Ultrawide Camera: 48 MP
+- Telephoto Camera: 48 MP with 5x zoom
+- Front Camera: 11 MP
+- Power Input: USB-C
+- Charging Input Power: 30W
+- Stereo Speakers: Yes
+- IP Rating: IP68
+- Links: [Google Store](https://store.google.com)
 
 ### #7 [Google Pixel 8](https://www.amazon.com/Google-Pixel-Unlocked-Smartphone-Advanced/dp/B0CGTD5KVT?crid=381PQJ8V7E2UP&dib=eyJ2IjoiMSJ9.7Iu1qA0lGy9QjX5bS4aARjyV9WOv8kRtafHrjW4H99PnjzaYfU6T_b8EpQ71xjJwT6TKH4Md7bYTpD6-EvBPqhfRRCQCldE81_m3ltzX5_PL4Jd_W4OLJUD0dW8rQFJnKXUJlrCOhTXmYJoac7pmE6MiFROLb_mULcLZxW6z_Ok7AnBuoVuEmEi-MoiPJUvE8rnxZy-duP7pE_DKsPHzctlsXXGULbnnIDUmGoUebGs.P8hWZd3SE8q0LS8uv9GcG3RTha9jW1zLINk-gs1S04M&dib_tag=se&keywords=pixel%2B8&qid=1726204202&sprefix=pixel%2B8%2Caps%2C202&sr=8-1-spons&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=b86a8f30597a0626453aeb374b6a93ff&language=en_US&ref_=as_li_ss_tl): $500+
+- Positives: Compact size, great value, excellent cameras
+- Negatives: No telephoto lens, smaller battery compared to Pro model
+- Dimensions: 150.5 x 70.8 x 8.9 mm
+- Weight: 187g
+- Display: 6.2 inches, 1080 x 2400 resolution, 427 PPI, OLED
+- Battery Capacity: 4575 mAh
+- Ram: 8GB
+- Memory: 128GB, 256GB
+- Wide Camera: 50 MP
+- Ultrawide Camera: 12 MP
+- Front Camera: 11 MP
+- Power Input: USB-C
+- Charging Input Power: 30W
+- Stereo Speakers: Yes
+- IP Rating: IP68
+- Links: [Google Store](https://store.google.com)
 
 ### #8 [Google Pixel 7 Pro](https://www.amazon.com/s?k=pixel+7+pro&crid=34XXZSZEYVBFE&sprefix=pixel+%2Caps%2C164&linkCode=ll2&tag=rankingspea01-20&linkId=e5e7ce4de9b948cba81e6c615f756c80&language=en_US&ref_=as_li_ss_tl): $317+
+- Positives: Impressive camera system, great display, Tensor G2 chip
+- Negatives: Battery life could be improved, large size
+- Dimensions: 162.9 x 76.6 x 8.9 mm
+- Weight: 212g
+- Display: 6.7 inches, 1440 x 3120 resolution, 512 PPI, OLED
+- Battery Capacity: 5000 mAh
+- Ram: 12GB
+- Memory: 128GB, 256GB, 512GB
+- Wide Camera: 50 MP
+- Ultrawide Camera: 12 MP
+- Telephoto Camera: 48 MP with 5x zoom
+- Front Camera: 10.8 MP
+- Power Input: USB-C
+- Charging Input Power: 30W
+- Stereo Speakers: Yes
+- IP Rating: IP68
+- Links: [Google Store](https://store.google.com)
 
 ### #9 [Apple iPhone 14 Pro Max](https://www.amazon.com/s?k=iphone+14+pro+max&crid=7KTABZ8E3WAX&sprefix=iphone+14+pro+ma%2Caps%2C166&linkCode=ll2&tag=rankingspea01-20&linkId=44ec782662b249daa8469ff9aa42fd32&language=en_US&ref_=as_li_ss_tl): $711+
 
+- Positives: Dynamic Island, always-on display, powerful A16 Bionic chip, excellent camera system
+- Negatives: Heavy, expensive
+- Dimensions: 160.7 x 77.6 x 7.9 mm
+- Weight: 240g
+- Display: 6.7 inches, 1290 x 2796 resolution, 460 PPI, OLED
+- Battery Capacity: 4323 mAh
+- Ram: 6GB
+- Memory: 128GB, 256GB, 512GB, 1TB
+- Wide Camera: 48 MP
+- Ultrawide Camera: 12 MP
+- Telephoto Camera: 12 MP with 3x zoom
+- Front Camera: 12 MP
+- Power Input: Lightning
+- Charging Input Power: 20W
+- Stereo Speakers: Yes
+- IP Rating: IP68
+
+
 ### #10 [Apple iPhone 14 Pro](https://www.amazon.com/s?k=iphone+14+pro&crid=7KTABZ8E3WAX&sprefix=iphone+14+pro+ma%2Caps%2C166&linkCode=ll2&tag=rankingspea01-20&linkId=44ec782662b249daa8469ff9aa42fd32&language=en_US&ref_=as_li_ss_tl): $680+
+
+
 
 ### #11 [Apple iPhone 15](https://www.amazon.com/s?k=iphone+15&crid=1FUCP6PY1OJ2O&sprefix=iphone+15%2Caps%2C165&linkCode=ll2&tag=rankingspea01-20&linkId=a64567d29b990b72382072f715525503&language=en_US&ref_=as_li_ss_tl): $646+
 
 ### #12 [Apple iPhone 15 Plus](https://www.amazon.com/s?k=iphone+15+plus&crid=2W2OB4SYHB26E&sprefix=iphone+15+plu%2Caps%2C182&linkCode=ll2&tag=rankingspea01-20&linkId=e3518661e51eae993047b6cb916587db&language=en_US&ref_=as_li_ss_tl): $690+
 
+- Positives: Larger screen, improved battery life, Dynamic Island, A16 Bionic chip
+- Negatives: No 120Hz ProMotion display, lacks telephoto lens
+- Dimensions: 160.9 x 77.8 x 7.8 mm
+- Weight: 201g
+- Display: 6.7 inches, 1290 x 2796 resolution, 460 PPI, OLED
+- Battery Capacity: 4912 mAh
+- Ram: 6GB
+- Memory: 128GB, 256GB, 512GB
+- Wide Camera: 48 MP
+- Ultrawide Camera: 12 MP
+- Front Camera: 12 MP
+- Power Input: USB-C
+- Charging Input Power: 20W
+- Stereo Speakers: Yes
+- IP Rating: IP68
+- Links: [Apple iPhone 15 Plus](https://www.apple.com)
+
 ### #13 [Samsung Galaxy S24 Ultra](https://www.amazon.com/s?k=samsung+galaxy+s24+ultra&crid=VH1CJ4IA0GAV&sprefix=samsung+galaxy+%2Caps%2C187&linkCode=ll2&tag=rankingspea01-20&linkId=caae57ded3132db57d9c37875d68be7e&language=en_US&ref_=as_li_ss_tl): $1195+
+ Positives: Stunning display, powerful performance, excellent zoom capabilities
+- Negatives: Expensive, large and heavy
+- Dimensions: 163.4 x 78.1 x 8.9 mm
+- Weight: 234g
+- Display: 6.8 inches, 1440 x 3088 resolution, 501 PPI, Dynamic AMOLED 2X
+- Battery Capacity: 5000 mAh
+- Ram: 12GB
+- Memory: 256GB, 512GB, 1TB
+- Wide Camera: 200 MP
+- Ultrawide Camera: 12 MP
+- Telephoto Camera: 10 MP with 10x optical zoom
+- Front Camera: 12 MP
+- Power Input: USB-C
+- Charging Input Power: 45W
+- Stereo Speakers: Yes
+- IP Rating: IP68
+- Links: [Samsung Galaxy S24 Ultra](https://www.samsung.com)
 
 ### #14 [Apple iPhone 13 Pro Max](https://www.amazon.com/s?k=iphone+13+pro+max&crid=3AFBKJT8GUCMK&sprefix=iphone+13+pro+ma%2Caps%2C238&linkCode=ll2&tag=rankingspea01-20&linkId=7253b041882171ff19952e876681e053&language=en_US&ref_=as_li_ss_tl)
 
+- Positives: Powerful A15 Bionic chip, great battery life, ProMotion display
+- Negatives: Heavy, expensive
+- Dimensions: 160.8 x 78.1 x 7.65 mm
+- Weight: 238g
+- Display: 6.7 inches, 1284 x 2778 resolution, 458 PPI, OLED
+- Battery Capacity: 4352 mAh
+- Ram: 6GB
+- Memory: 128GB, 256GB, 512GB, 1TB
+- Wide Camera: 12 MP
+- Ultrawide Camera: 12 MP
+- Telephoto Camera: 12 MP with 3x optical zoom
+- Front Camera: 12 MP
+- Power Input: Lightning
+- Charging Input Power: 20W
+- Stereo Speakers: Yes
+- IP Rating: IP68
+- Links: [Apple iPhone 13 Pro Max](https://www.apple.com)
+
 ### #15 [Apple iPhone 13 Pro](https://www.amazon.com/s?k=iphone+13+pro&crid=7KTABZ8E3WAX&sprefix=iphone+13+pro+ma%2Caps%2C166&linkCode=ll2&tag=rankingspea01-20&linkId=44ec782662b249daa8469ff9aa42fd32&language=en_US&ref_=as_li_ss_tl): $680+
+
+- Positives: Powerful A15 Bionic chip, ProMotion display, excellent cameras
+- Negatives: Expensive, no major design changes
+- Dimensions: 146.7 x 71.5 x 7.65 mm
+- Weight: 204g
+- Display: 6.1 inches, 1170 x 2532 resolution, 460 PPI, OLED
+- Battery Capacity: 3095 mAh
+- Ram: 6GB
+- Memory: 128GB, 256GB, 512GB, 1TB
+- Wide Camera: 12 MP
+- Ultrawide Camera: 12 MP
+- Telephoto Camera: 12 MP with 3x optical zoom
+- Front Camera: 12 MP
+- Power Input: Lightning
+- Charging Input Power: 20W
+- Stereo Speakers: Yes
+- IP Rating: IP68
+- Links: [Apple iPhone 13 Pro](https://www.apple.com)
 
 ### #16 [Google Pixel 9 Pro Fold](https://www.amazon.com/Google-Pixel-Pro-Fold-Smartphone/dp/B0D7V1J2Y1?crid=23VAY5AZSCK3H&dib=eyJ2IjoiMSJ9.XQwaMeTGzbb4aQwYs_813TypCF38wmvd2NdtWsaFdeCaXXseWiNrD6mRJFysnutT6rWnrP5GGDjDPKrKtbnn3WOiOwOiJ_WKuQgSLC5TIcnzbs0nCvAun0mCE5ixzaX09frBylmd6UlAV5ej8H3rikbgK3QUl42pGnSifaABUxprDoDDutpChosEOPNtAD5IGIo91HeXz8dJ7THrUjiS4LqYsUC4Li1SLuAdPlh9z7s.HBaMOCI2xxypaUfTiMGxISd6KfyXspex4hlq3ofK4FQ&dib_tag=se&keywords=google%2Bpixel%2B9%2Bfold%2Bpro&qid=1726204850&sprefix=google%2Bpixel%2B9%2Bfold%2Bpro%2Caps%2C172&sr=8-3&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=da5f67a42099a9d0bb4eb38cbcb3bb59&language=en_US&ref_=as_li_ss_tl): $1800
