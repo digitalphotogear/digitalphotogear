@@ -165,7 +165,7 @@ This page ranks 11 top ranked cell phone cameras from major brands. Choose whate
 - Links: [Apple iPhone 14 Pro](https://www.apple.com)
 
 ### #9 [Samsung Galaxy S24 Ultra](https://www.amazon.com/s?k=samsung+galaxy+s24+ultra&crid=VH1CJ4IA0GAV&sprefix=samsung+galaxy+%2Caps%2C187&linkCode=ll2&tag=rankingspea01-20&linkId=caae57ded3132db57d9c37875d68be7e&language=en_US&ref_=as_li_ss_tl): $1195+
- Positives: Stunning display, powerful performance, excellent zoom capabilities
+- Positives: Stunning display, powerful performance, excellent zoom capabilities
 - Negatives: Expensive, large and heavy
 - Dimensions: 163.4 x 78.1 x 8.9 mm
 - Weight: 234g
