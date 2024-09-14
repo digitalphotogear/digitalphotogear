@@ -55,8 +55,8 @@ This page ranks 11 top ranked cell phone cameras from major brands. Choose whate
 - Weight: 7.6oz / 218g
 - Display: 6.7" 1290 x 2796 LTPO OLED at 460 PPI
 - Battery Capacity: 4820 mAh
-- Ram: 12GB
-- Memory: 128GB, 256GB, 512GB, 1TB
+- Ram: 8GB
+- Memory: 256GB, 512GB, 1TB
 - Wide Camera: 48 MP
 - Ultrawide Camera: 12 MP
 - Telephoto Camera: 12 MP with 3x zoom
