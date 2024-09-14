@@ -15,7 +15,7 @@ This page lists the top ranked cell phone cameras from major brands. Choose what
 - Display: 6.8" 1344 x 2992 LTPO OLED at 486 PPI
 - Battery Capacity: 5060 mAh
 - Ram: 16GB
-- Memory: 128 GB / 256 GB / 512 GB / 1 TB
+- Memory: 128 GB, 256 GB, 512 GB, 1 TB
 - Wide Camera: 50 MP Octa PD wide camera ƒ/1.68 aperture 82° field of view 1/1.31" image sensor size
 - Ultrawide Camera: 48 MP Quad PD ultrawide camera with autofocus ƒ/1.7 aperture 123° field of view 1/2.55" image sensor size
 - Telephoto Camera: 48 MP Quad PD telephoto camera ƒ/2.8 aperture 22° field of view 5x optical zoom Super Res Zoom up to 30x 1/2.55" image sensor size
@@ -36,7 +36,7 @@ This page lists the top ranked cell phone cameras from major brands. Choose what
 - Display: 6.3" 1280 x 2856 LTPO OLED at 495 PPI
 - Battery Capacity: 4700 mAh
 - Ram: 16GB
-- Memory: 128 GB / 256 GB / 512 GB / 1 TB
+- Memory: 128 GB, 256 GB, 512 GB, 1 TB
 - Wide Camera: 50 MP Octa PD wide camera ƒ/1.68 aperture 82° field of view 1/1.31" image sensor size
 - Ultrawide Camera: 48 MP Quad PD ultrawide camera with autofocus ƒ/1.7 aperture 123° field of view 1/2.55" image sensor size
 - Telephoto Camera: 48 MP Quad PD telephoto camera ƒ/2.8 aperture 22° field of view 5x optical zoom Super Res Zoom up to 30x 1/2.55" image sensor size
@@ -56,7 +56,17 @@ This page lists the top ranked cell phone cameras from major brands. Choose what
 - Display: 6.7" 1290 x 2796 LTPO OLED at 460 PPI
 - Battery Capacity: 4820 mAh
 - Ram: 12GB
-- Memory: 128 GB / 256 GB / 512 GB / 1 TB
+- Memory: 128GB, 256GB, 512GB, 1TB
+- Wide Camera: 48 MP
+- Ultrawide Camera: 12 MP
+- Telephoto Camera: 12 MP with 3x zoom
+- Front Camera: 12 MP
+- Power Input: USB-C
+- Charging Input Power: 20W
+- Stereo Speakers: Yes
+- IP Rating: IP68
+- Links: [Apple iPhone 15 Pro](https://www.apple.com)
+
 
 ### #4 [Apple iPhone 15 Pro](https://www.amazon.com/s?k=iphone+15+pro&crid=JSNB7WG5N6ZQ&sprefix=iphone+15+pro+ma%2Caps%2C192&linkCode=ll2&tag=rankingspea01-20&linkId=c717613cc4b80cdb599535fab71a6b14&language=en_US&ref_=as_li_ss_tl): $714+
 - Positives: A17 Pro chip, 48 MP camera, smooth continuous zoom
