@@ -14,17 +14,17 @@ DSLRs and mirrorless cameras will be a step up in many ways from the best camera
 Fixed lens cameras do still have a time and place, although they are being squashed out by the increased performance of camera phones and are pretty much obsolete for most uses. One remaining use of fixed lens cameras is during concerts and sports events where detachable lens cameras are banned but you need a longer zoom than a camera phone can provide.
 
 ### Cameras
-- [Cell Phone Cameras](phone-cameras)
-- [Digital DSLR and Mirrorless Camera Bodies](detachable-lens-cameras)
-- [Digital Fixed Lens Cameras](fixed-lens-cameras)
+- [Cell Phone Cameras](/phone-cameras/)
+- [Digital DSLR and Mirrorless Camera Bodies](/detachable-lens-cameras/)
+- [Digital Fixed Lens Cameras](/fixed-lens-cameras/)
 
 ### Lenses
-- [General Use Lenses](general-use-lenses)
-- [Landscape Lenses](landscape-lenses)
-- [Portrait Lenses](portrait-lenses)
-- [Sports Lenses](sports-lenses)
-- [Wildlife Lenses](sports-lenses)
-- [Macro Lenses](macro-lenses)
+- [General Use Lenses](/general-use-lenses/)
+- [Landscape Lenses](/landscape-lenses/)
+- [Portrait Lenses](/portrait-lenses/)
+- [Sports Lenses](/sports-lenses/)
+- [Wildlife Lenses](/wildlife-lenses/)
+- [Macro Lenses](/macro-lenses/)
 
 ### Information
 
