@@ -173,29 +173,23 @@ This page lists the top ranked cell phone cameras from major brands. Choose what
 
 
 ### #10 [Apple iPhone 14 Pro](https://www.amazon.com/s?k=iphone+14+pro&crid=7KTABZ8E3WAX&sprefix=iphone+14+pro+ma%2Caps%2C166&linkCode=ll2&tag=rankingspea01-20&linkId=44ec782662b249daa8469ff9aa42fd32&language=en_US&ref_=as_li_ss_tl): $680+
-
-
-
-### #11 [Apple iPhone 15](https://www.amazon.com/s?k=iphone+15&crid=1FUCP6PY1OJ2O&sprefix=iphone+15%2Caps%2C165&linkCode=ll2&tag=rankingspea01-20&linkId=a64567d29b990b72382072f715525503&language=en_US&ref_=as_li_ss_tl): $646+
-
-### #12 [Apple iPhone 15 Plus](https://www.amazon.com/s?k=iphone+15+plus&crid=2W2OB4SYHB26E&sprefix=iphone+15+plu%2Caps%2C182&linkCode=ll2&tag=rankingspea01-20&linkId=e3518661e51eae993047b6cb916587db&language=en_US&ref_=as_li_ss_tl): $690+
-
-- Positives: Larger screen, improved battery life, Dynamic Island, A16 Bionic chip
-- Negatives: No 120Hz ProMotion display, lacks telephoto lens
-- Dimensions: 160.9 x 77.8 x 7.8 mm
-- Weight: 201g
-- Display: 6.7 inches, 1290 x 2796 resolution, 460 PPI, OLED
-- Battery Capacity: 4912 mAh
+- Positives: Dynamic Island, A16 Bionic chip, always-on display, great camera performance
+- Negatives: No major design changes, expensive
+- Dimensions: 147.5 x 71.5 x 7.9 mm
+- Weight: 206g
+- Display: 6.1 inches, 1179 x 2556 resolution, 460 PPI, OLED
+- Battery Capacity: 3200 mAh
 - Ram: 6GB
-- Memory: 128GB, 256GB, 512GB
+- Memory: 128GB, 256GB, 512GB, 1TB
 - Wide Camera: 48 MP
 - Ultrawide Camera: 12 MP
+- Telephoto Camera: 12 MP with 3x zoom
 - Front Camera: 12 MP
-- Power Input: USB-C
+- Power Input: Lightning
 - Charging Input Power: 20W
 - Stereo Speakers: Yes
 - IP Rating: IP68
-- Links: [Apple iPhone 15 Plus](https://www.apple.com)
+- Links: [Apple iPhone 14 Pro](https://www.apple.com)
 
 ### #13 [Samsung Galaxy S24 Ultra](https://www.amazon.com/s?k=samsung+galaxy+s24+ultra&crid=VH1CJ4IA0GAV&sprefix=samsung+galaxy+%2Caps%2C187&linkCode=ll2&tag=rankingspea01-20&linkId=caae57ded3132db57d9c37875d68be7e&language=en_US&ref_=as_li_ss_tl): $1195+
  Positives: Stunning display, powerful performance, excellent zoom capabilities
