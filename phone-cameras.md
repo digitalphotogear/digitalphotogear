@@ -4,7 +4,7 @@ title: Cell Phone Cameras
 comments: true
 ---
 
-This page ranks 14 top ranked cell phone cameras from major brands. Choose whatever manufacturer feels the most comfortable to you. All the phones on this page are good enough for high end use. See [DXOmark](https://www.dxomark.com/smartphones/) for more details of camera performance. I'd recommend sticking with one of the top manufacturers (Google, Apple, Samsung) due to better software support, bugfixes and future updates.
+This page ranks 11 top ranked cell phone cameras from major brands. Choose whatever manufacturer feels the most comfortable to you. All the phones on this page are good enough for high end use. See [DXOmark](https://www.dxomark.com/smartphones/) for more details about camera performance. I'd recommend sticking with one of the top manufacturers (Google, Apple, Samsung) due to better software support, bugfixes and future updates.
 
 ### #1 [Google Pixel 9 Pro XL](https://www.amazon.com/Google-Pixel-Pro-XL-Smartphone/dp/B0D7HSJ7ZP?crid=3UIQYDRYY0K8F&dib=eyJ2IjoiMSJ9.O9Hqo1tiQ6ThQtkeaw4ka3OeW95ijWZWokDDSrAN256kIUIjgT5E2iDX76BuEgwEkDTJrd_iI3iLQIgFCa-tgT1kaqntcR7N4KidC6poIbu7dPoJmeHmULnXQ5LYtrD2Du-86wtpePP8pccAcUqqAGpS1S7POyM1MOF4BXaEgj3kIsIeqTNEEbiK2C9ULqZ7p5Twp8UY7IqoEQ3Gn84dgqUDx_inbE9Hrp74V4TI3io.N_eDNpz4cfWvg5eLf9cFCghJpsXfX0tmmdBRxZBEZyk&dib_tag=se&keywords=pixel%2B9%2Bpro%2Bxl&qid=1726199074&sprefix=pixel%2B9%2Bpro%2Bxl%2B%2Caps%2C245&sr=8-1-spons&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=f50beacf79ac7f8ab6656e0f97b6cfe3&language=en_US&ref_=as_li_ss_tl): $1100-$1550
 
