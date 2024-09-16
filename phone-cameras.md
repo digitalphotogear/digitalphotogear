@@ -29,7 +29,7 @@ This page ranks 11 top ranked cell phone cameras with a 3 lens (ultrawide, wide,
 
 ### #2 [Google Pixel 9 Pro](https://www.amazon.com/Google-Pixel-Pro-Unlocked-Smartphone/dp/B0D7HVCD91?crid=2WRXDA897RWH6&dib=eyJ2IjoiMSJ9.WiiuMKA2ha-aRJizbUn49AhUv6-88oxlPmS5ksdh4Q-i72GitxPtI0DmVH-brihBe1zG3wEB3ZbrVIhPuSYm-1wQmrgNAfPMZFEWXJrzJSuu402r2LFhbrmMmpFX8cGPpFfwOxFDSCQN6COyN7qenWpm9zNgdm48kbiTwut6Fz42Ak_zrpwrMF0pm5d8kQtvRJWpP7lddmwyTeChcj2m7kD031UOMjTqplP3cdsp6B0.LiUkIbCWJ0VOAZEJZnDkG4rt35k_bheNEU7JobJBo_8&dib_tag=se&keywords=pixel%2B9%2Bpro&qid=1726200118&sprefix=pixel%2B9%2Bpro%2Caps%2C231&sr=8-1-spons&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=675cf5f4ddbeeec8d8b346ba42d659e3&language=en_US&ref_=as_li_ss_tl): $1000-$1450
 
-- Positives: Currently the highest ranked of the popular phone models in terms of camera performance
+- Positives: Same as the XL in terms of cameras. Currently the highest ranked of the popular phone models in terms of camera performance
 - Negatives: Screen isn't as big as the XL model, battery is a little smaller
 - Dimensions: 6 x 2.8 x 0.3 inches / 162.8 x 76.6 x 8.5 mm
 - Weight: 7.0oz / 199g
