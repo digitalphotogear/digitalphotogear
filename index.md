@@ -24,6 +24,7 @@ Fixed lens cameras do still have a time and place, although they are being squas
 - [Portrait Lenses](/portrait-lenses/)
 - [Sports Lenses](/sports-lenses/)
 - [Wildlife Lenses](/wildlife-lenses/)
+- [Wedding Lenses](/wedding-lenses/)
 - [Macro Lenses](/macro-lenses/)
 
 ### Information
