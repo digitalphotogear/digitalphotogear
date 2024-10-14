@@ -16,7 +16,6 @@ Fixed lens cameras do still have a time and place, although they are being squas
 ### Cameras
 - [Cell Phone Cameras](/phone-cameras/): 13 cameras ranked
 - [APS-C Detachable Lens Cameras](/apsc-detachable-lens-cameras/): 3 cameras ranked
-- [Digital Fixed Lens Cameras](/fixed-lens-cameras/)
 
 ### Lenses
 - [General Use Lenses](/general-use-lenses/)
