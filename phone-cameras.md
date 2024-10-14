@@ -48,6 +48,38 @@ This page ranks 11 top ranked cell phone cameras with a 3 lens (ultrawide, wide,
 - Links
     - [Official Product Page](https://store.google.com/us/product/pixel_9_pro)
 
+### #3 [Apple iPhone 16 Pro Max](https://www.amazon.com/s?k=iphone+16+pro+max&crid=JSNB7WG5N6ZQ&sprefix=iphone+16+pro+ma%2Caps%2C192&linkCode=ll2&tag=rankingspea01-20&linkId=c717613cc4b80cdb599535fab71a6b14&language=en_US&ref_=as_li_ss_tl): $1200+
+- Positives: Latest iPhone with upgraded camera, display, and performance enhancements.
+- Negatives: Expensive, larger size can be unwieldy for some users.
+- Dimensions: 6.8 x 3.06 x 0.31 inches / 174.5 x 77.4 x 7.9 mm
+- Weight: 7.8oz / 221g
+- Display: 6.9" 2796 x 1290 Super Retina XDR OLED at 460 PPI, ProMotion, Always-On Display
+- Battery Capacity: 4800 mAh (approx)
+- RAM: 8GB
+- Memory: 256GB, 512GB, 1TB, 2TB
+- Wide Camera: 48 MP, ƒ/1.78 aperture
+- Ultrawide Camera: 12 MP, ƒ/2.2 aperture, 120° field of view
+- Telephoto Camera: 12 MP, ƒ/2.8 aperture, 5x optical zoom
+- Front Camera: 12 MP, ƒ/1.9 aperture with autofocus
+- Charging: 30W wired via USB-C, MagSafe and Qi wireless charging
+- Links: [Apple iPhone 16 Pro](https://www.apple.com)
+
+### #4 [Apple iPhone 16 Pro](https://www.amazon.com/s?k=iphone+16+pro&crid=JSNB7WG5N6ZQ&sprefix=iphone+16+pro+ma%2Caps%2C192&linkCode=ll2&tag=rankingspea01-20&linkId=c717613cc4b80cdb599535fab71a6b14&language=en_US&ref_=as_li_ss_tl): $1000+
+- Positives: Slightly more compact, retains key features of the Pro Max at a lower price.
+- Negatives: Smaller battery compared to the Pro Max.
+- Dimensions: 6.33 x 3.02 x 0.31 inches / 160.8 x 77.1 x 7.9 mm
+- Weight: 7.27oz / 206g
+- Display: 6.3" 2796 x 1290 Super Retina XDR OLED at 460 PPI, ProMotion, Always-On Display
+- Battery Capacity: 4500 mAh (approx)
+- RAM: 8GB
+- Memory: 256GB, 512GB, 1TB
+- Wide Camera: 48 MP, ƒ/1.78 aperture
+- Ultrawide Camera: 12 MP, ƒ/2.2 aperture, 120° field of view
+- Telephoto Camera: 12 MP, ƒ/2.8 aperture, 5x optical zoom
+- Front Camera: 12 MP, ƒ/1.9 aperture with autofocus
+- Charging: 30W wired via USB-C, MagSafe and Qi wireless charging
+- Links: [Apple iPhone 16 Pro](https://www.apple.com)
+
 ### #3 [Apple iPhone 15 Pro Max](https://www.amazon.com/s?k=iphone+15+pro+max&crid=JSNB7WG5N6ZQ&sprefix=iphone+15+pro+ma%2Caps%2C192&linkCode=ll2&tag=rankingspea01-20&linkId=c717613cc4b80cdb599535fab71a6b14&language=en_US&ref_=as_li_ss_tl): $1000+
 - Positives: High camera performance, popular among professional photographers
 - Negatives: Expensive and large form factor may not be suitable for everyone
