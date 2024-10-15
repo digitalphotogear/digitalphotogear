@@ -18,7 +18,7 @@ Fixed lens cameras do still have a time and place, although they are being squas
 - [APS-C Detachable Lens Cameras](/apsc-detachable-lens-cameras/): 3 cameras ranked
 
 ### Lenses
-- [General Use Lenses](/general-use-lenses/)
+- [Travel Lenses](/travel-lenses/)
 - [Landscape Lenses](/landscape-lenses/)
 - [Portrait Lenses](/portrait-lenses/)
 - [Sports Lenses](/sports-lenses/)
