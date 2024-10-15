@@ -71,14 +71,6 @@ Nikon’s Z-mount mirrorless cameras offer excellent ergonomics, great image qua
 - **Cons**: No built-in GPS, relatively large for a mirrorless camera.
 - **Best for**: Professionals seeking high-resolution performance in a lighter body than the flagship Z9.
 
-#### [Nikon Z7 II](https://www.amazon.com/Nikon-Ultra-high-Resolution-Full-Frame-mirrorless/dp/B08L614R6K?crid=1TQF105B7MNX3&dib=eyJ2IjoiMSJ9.SfKaD7o55hyBWekA47ZCM-GG59zbJM6MItz1lU5n42XDwfn1fbGgObLrpjfeBOlASCOYxI38dCjQXzbVwhc67cKvd7nIEdnrJngXYPtOA18fAYQJrZHeCSLuUdgDgGQ6de4hkP8T10R_5a7NKnzo9IhNxTE1FTm_khmaIylwGSJdI6rUsGy-7HrDgzTZmuYz5wu1-Oz_Glnmjfkwm4TUXRKZFdM7nZMx3cNyGu1vpsg.eKOjo803VuBR5vo_hxQt0AGlubO56_-tefQRn5awg9A&dib_tag=se&keywords=nikon%2Bz7%2Bii&qid=1729026121&sprefix=nikon%2Bz7%2Bi%2Caps%2C230&sr=8-1&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=bf832306829669fd27b9b3ba72ef4bd8&language=en_US&ref_=as_li_ss_tl)
-- **Sensor**: 45.7MP full-frame
-- **Video**: 4K at 60fps
-- **Autofocus**: Eye-detection AF for humans and animals
-- **Pros**: Superb image quality, dual processors, dual card slots, good ergonomics.
-- **Cons**: Video features aren’t as strong as competitors like Canon or Sony.
-- **Best for**: Landscape, portrait, and studio photographers who prioritize high-resolution stills.
-
 #### [Nikon Z6 III](https://www.amazon.com/Nikon-FX-Format-Mirrorless-Camera-24-70mm/dp/B0D77SYG79?crid=3EK3URVDFWMKV&dib=eyJ2IjoiMSJ9.Rr8c8kMtWlXfvvCOvqflth0_0dMqnqN61zBMt1CsmNIAHNZRAwTElLXUvrrufIJI0fFqONPP2osYc0zEd3XyHnBQpEbO7xz-1PH4lNY1Q8cytjHvVO4qJKEiJB9wWTisdNBn2Tzg_hj-8aW7HzvyCNyCvaBjGYOozJePVxyxULeCMzacZ_4BHD1aVwKeVPtBkFsLVl0mvy4S8iTgwpO_Mb6_dri3rDfph_d28ts7kd4.VMil6WrgCZtt_O8C3jutUc1-o6n7GhxEwASocZOEALw&dib_tag=se&keywords=nikon%2Bz6%2Biii&qid=1729026155&sprefix=nikon%2Bz6%2Biii%2Caps%2C241&sr=8-1&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=098cc96fcc765da56e7784d6b70c4955&language=en_US&ref_=as_li_ss_tl)
 - **Sensor**: 24.5MP full-frame
 - **Video**: 5.4K at 60fps
@@ -86,6 +78,14 @@ Nikon’s Z-mount mirrorless cameras offer excellent ergonomics, great image qua
 - **Pros**: Excellent low-light performance, versatile for both photo and video, dual card slots.
 - **Cons**: Autofocus could be slightly improved compared to Sony's system.
 - **Best for**: Enthusiasts or professionals looking for a versatile, all-rounder camera with strong video capabilities.
+
+#### [Nikon Z7 II](https://www.amazon.com/Nikon-Ultra-high-Resolution-Full-Frame-mirrorless/dp/B08L614R6K?crid=1TQF105B7MNX3&dib=eyJ2IjoiMSJ9.SfKaD7o55hyBWekA47ZCM-GG59zbJM6MItz1lU5n42XDwfn1fbGgObLrpjfeBOlASCOYxI38dCjQXzbVwhc67cKvd7nIEdnrJngXYPtOA18fAYQJrZHeCSLuUdgDgGQ6de4hkP8T10R_5a7NKnzo9IhNxTE1FTm_khmaIylwGSJdI6rUsGy-7HrDgzTZmuYz5wu1-Oz_Glnmjfkwm4TUXRKZFdM7nZMx3cNyGu1vpsg.eKOjo803VuBR5vo_hxQt0AGlubO56_-tefQRn5awg9A&dib_tag=se&keywords=nikon%2Bz7%2Bii&qid=1729026121&sprefix=nikon%2Bz7%2Bi%2Caps%2C230&sr=8-1&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=bf832306829669fd27b9b3ba72ef4bd8&language=en_US&ref_=as_li_ss_tl)
+- **Sensor**: 45.7MP full-frame
+- **Video**: 4K at 60fps
+- **Autofocus**: Eye-detection AF for humans and animals
+- **Pros**: Superb image quality, dual processors, dual card slots, good ergonomics.
+- **Cons**: Video features aren’t as strong as competitors like Canon or Sony.
+- **Best for**: Landscape, portrait, and studio photographers who prioritize high-resolution stills.
 
 ### **4. Fujifilm (APS-C)**
 Fujifilm’s X-series cameras are loved for their retro designs, excellent APS-C sensors, and film simulation modes.
