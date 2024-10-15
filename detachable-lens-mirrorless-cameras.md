@@ -87,24 +87,5 @@ Nikon’s Z-mount mirrorless cameras offer excellent ergonomics, great image qua
 - **Cons**: Video features aren’t as strong as competitors like Canon or Sony.
 - **Best for**: Landscape, portrait, and studio photographers who prioritize high-resolution stills.
 
-### **4. Fujifilm (APS-C)**
-Fujifilm’s X-series cameras are loved for their retro designs, excellent APS-C sensors, and film simulation modes.
-
-#### [Fujifilm X-T5](https://www.amazon.com/Fujifilm-X-T5-Mirrorless-Digital-Camera/dp/B0BK2P7DMG?crid=1L5AR9B5YTQOV&dib=eyJ2IjoiMSJ9.cT3iTZSwv9SG6aWkZsLF1ULAlKb0PtUfNOrE5fjdm4k6W8A2xIRYZaT-BV9GOcSyV0nSLSgWiKGBIlu6IVjUboPryjrZUxxdu1ZbOCReOxrz0gV2HrtUQ3lZ9Lza_MZy45KJTR1ayKVhlSQkukR46Fvk6hZ1bTOFN8EzzIvHav707dqArFBJyOe90UjfGOBber8WfVmJTmHU_7l3ewWypdnt0-UGZvb8RB-rknm3Y4U.PHwFpLOl3H0xd6cCV3rnrPb8kntzF9wPkTcByCG5QeU&dib_tag=se&keywords=fujifilm%2Bx-t5&qid=1729026244&sprefix=fujifilm%2Bx-t%2Caps%2C228&sr=8-3&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=33b39a48a7291ff0b61b6bd40c9fb1f7&language=en_US&ref_=as_li_ss_tl)
-- **Sensor**: 40MP APS-C
-- **Video**: 6.2K at 30fps, 4K at 60fps
-- **Autofocus**: Advanced subject detection AF
-- **Pros**: Compact, high-resolution sensor, retro design, great video features.
-- **Cons**: No in-body image stabilization (IBIS), small grip may be uncomfortable for large hands.
-- **Best for**: Enthusiast photographers who appreciate the tactile controls and compact body.
-
-#### [Fujifilm X-S20](https://www.amazon.com/Fujifilm-Mirrorless-Digital-Camera-XF16-50mmF2-8-4-8/dp/B0D3X6WPGZ?crid=U4MWYUMB5T6O&dib=eyJ2IjoiMSJ9.9c0AqJgFR4vTmg3L7yiFDrmWoFoca6oGz5OQsKTKfyxhkXg4ptMnpj5YySNeCXbhmeMRWc0tMQime6eqk_DvKGioOKKE5Xojs2bOcTD2Fpnlrkxq0IKXzIsQye9Sb9c6Id_9_xDFmiudAi7e2608usgnoYF9LdM2wNW0XoKrryUCrLXO73t_tYGDuMODwxhrPvV4RNzF4R2GmQNKR5eRyE2x10yRvLNBQHK8-twoDq4.kfrh2-FC0SViL4UOlqP-NHysFulFBZkRZ8HUQyBWvA0&dib_tag=se&keywords=fujifilm%2Bx-s20&qid=1729026281&sprefix=fujifilm%2Bx-s20%2Caps%2C318&sr=8-3&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=85346b8bf80632dfb56f3e8288bacfbf&language=en_US&ref_=as_li_ss_tl)
-- **Sensor**: 26.1MP APS-C
-- **Video**: 6.2K at 30fps, 4K at 60fps
-- **Autofocus**: Advanced subject detection AF
-- **Pros**: Compact body with IBIS, excellent video features, long battery life.
-- **Cons**: No weather-sealing.
-- **Best for**: Hybrid shooters who need a compact, travel-friendly camera for both stills and video.
-
 ### Conclusion
-The **Sony Alpha 7 IV**, **Canon EOS R5**, and **Nikon Z8** stand out as some of the best mirrorless camera bodies for professionals and enthusiasts. For those on a tighter budget, options like the **Fujifilm X-S20** or **Sony A7C** offer excellent performance in compact designs. The best choice ultimately depends on your specific needs, whether that’s for photography, video, or hybrid shooting.
+The **Sony Alpha 7 IV**, **Canon EOS R5**, and **Nikon Z8** stand out as some of the best mirrorless camera bodies for professionals and enthusiasts. The best choice ultimately depends on your specific needs, whether that’s for photography, video, or hybrid shooting.
