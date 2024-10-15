@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Detacheable Lens Mirrorless Cameras
+title: Detachable Lens Mirrorless Cameras
 comments: true
 ---
 
