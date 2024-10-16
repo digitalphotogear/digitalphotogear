@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Detachable Lens Mirrorless Cameras
+title: Full Frame Mirrorless Camera Bodies
 comments: true
 ---
 
