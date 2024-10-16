@@ -1,6 +1,6 @@
 ---
 layout: page
-title: APS-C Detachable Lens Camera Bodies
+title: APS-C Mirrorless Camera Bodies
 comments: true
 ---
 
