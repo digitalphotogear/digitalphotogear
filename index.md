@@ -15,7 +15,7 @@ Fixed lens cameras do still have a time and place, although they are being squas
 
 ### Cameras
 - [Cell Phone Cameras](/phone-cameras/): 13 cameras ranked
-- [Detachable Lens Mirrorless Cameras](/detachable-lens-mirrorless-cameras/)
+- [Full Frame Mirrorless Cameras](/full-frame-mirrorless-cameras/)
 
 ### Lenses
 - [Travel Lenses](/travel-lenses/)
