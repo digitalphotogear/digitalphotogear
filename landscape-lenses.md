@@ -6,8 +6,6 @@ comments: true
 
 Landscape photography often requires lenses that offer wide-angle views, high image sharpness, and excellent performance across the frame. Here's a list of some of the **best mirrorless landscape lenses** across different systems:
 
----
-
 ### **For Sony (E-mount)**
 
 1. [Sony FE 16-35mm f/2.8 GM II](https://www.amazon.com/Sony-FE-16-35mm-F2-8-GM/dp/B0CGTW24VF?crid=1M88A90L55O2L&dib=eyJ2IjoiMSJ9.fam4rlkritgdFVfXLcXklvIAf_Bxyb-A8ihS4UAi4kiPi8zwQHLrWx6MEYqo5wMF1sbNzV7QITy1BlalcP694pzQmsiTbazxA5SNN7-PMifsI5_Wu9Diw50fHoOrx-oXE_4RNMrZt-qt_qIy2LC5uQvoXR-gLazBvVVlH7JLoK__I0-3cOimyK2i2y0RyunuNg9iGWVLbcl-_PTBZr2RqVgJhQ-oUE-weqU75zqAotM.8larD6PSaDSb2JtznBtvotBdmfY3n1xcB90UJkrpNIw&dib_tag=se&keywords=sony%2Bfe%2B16-35mm%2Bf%2F2.8%2Bgm&qid=1729574629&sprefix=%2Caps%2C217&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=470794b2b5a9268f21be9b73a77f3067&language=en_US&ref_=as_li_ss_tl)
@@ -24,8 +22,6 @@ Landscape photography often requires lenses that offer wide-angle views, high im
    - **Focal Length**: 24mm
    - **Key Features**: Fast f/1.4 aperture, lightweight, exceptional sharpness.
    - **Why it’s great**: A premium prime lens with outstanding performance for landscapes. The wide f/1.4 aperture is useful for astrophotography, especially in low-light or night sky shots.
-
----
 
 ### **For Canon (RF-mount)**
 
@@ -44,8 +40,6 @@ Landscape photography often requires lenses that offer wide-angle views, high im
    - **Key Features**: Ultra-wide prime, compact and lightweight, affordable.
    - **Why it’s great**: An affordable and lightweight option for landscape photographers who want an ultra-wide prime. Despite being budget-friendly, it offers solid performance and is great for those who prefer simplicity.
 
----
-
 ### **For Nikon (Z-mount)**
 
 1. [Nikon Z 14-24mm f/2.8 S](https://www.amazon.com/Nikon-Professional-aperture-wide-angle-mirrorless/dp/B08J7FHHWX?crid=1OZ69GXMFQC87&dib=eyJ2IjoiMSJ9.6I-ACpot06Cn9KC7kvQ7Rcm3q0b02x8pO8wIAGerEk9W8C36VejsCJQRRFCrMj3cvA23NdGSFQx2TY4FPXJOksCEMQ2--S4_YJ-aMjQ-B79jGLTfmrj4axqwute7xWv97WNu4uRl1uSbTiLkGvydInXQ1tVgsjG9M5NTXlTy_9gCUh578PhkDchbwy7rT0raSsw2g85S0uZRok8r4V_2d0xgvrpkr3u6b4mPROMpNgo.k2er7tl4GwSa3RTip97LHtWwg3Ahirj-Tl0mrdmWOp8&dib_tag=se&keywords=Nikon+Z+14-24mm+f%2F2.8+S&qid=1729574849&sprefix=nikon+z+14-24mm+f%2F2.8+s%2Caps%2C238&sr=8-2&linkCode=ll1&tag=rankingspea01-20&linkId=37f66cf921571a64bcab96432f344882&language=en_US&ref_=as_li_ss_tl)
@@ -63,8 +57,6 @@ Landscape photography often requires lenses that offer wide-angle views, high im
    - **Key Features**: Compact design, lightweight, weather-sealed, sharp across the frame.
    - **Why it’s great**: While not an ultra-wide lens, this standard zoom is versatile enough for landscape photography, offering flexibility with focal lengths from 24mm to 70mm. It’s compact and lightweight, making it ideal for travel.
 
----
-
 ### **For Fujifilm (X-mount, APS-C)**
 
 1. [Fujifilm XF 10-24mm f/4 R OIS WR](https://www.amazon.com/Fujinon-XF10-24mmF4-R-OIS-WR/dp/B08L41GDC8?crid=333D1YZQYRO2T&dib=eyJ2IjoiMSJ9.vPm7kASFY1gSHoIaKtSDu9zH0wO_IEcbG46QjY8BfqIOm6ycmTw0uxERfYsdm4eNbkcajI2yRQlUG4--397nui46SuZxkGf-TWFRuW_rkhJz2CLBIXM_hUrzaVl02HosGGgyCtSUWKVh6ifwbY4tRRW9yqzBvpTDoYtMdhsHPNFUKE_fNSIhY9ngu6mJnlPPXsP9C7SrQJooystPHYXU8RPdvRW4_UzLrpf99cN3904.G1o8ERnR5TN9U3AzXDUE_SF8jn54XfXV_uGAiHKSTAI&dib_tag=se&keywords=Fujifilm%2BXF%2B10-24mm%2Bf%2F4%2BR%2BOIS%2BWR&qid=1729574944&sprefix=ni%2Caps%2C189&sr=8-1&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=0c6813f0d3761988f31642142951cb1a&language=en_US&ref_=as_li_ss_tl)
@@ -81,8 +73,6 @@ Landscape photography often requires lenses that offer wide-angle views, high im
    - **Focal Length**: 16-50mm (equivalent to 24-75mm on full-frame)
    - **Key Features**: Optical image stabilization, versatile zoom range, lightweight.
    - **Why it’s great**: A great all-purpose zoom for travel and landscapes, with an excellent range and lightweight design. It delivers strong image quality throughout the focal range, and the built-in stabilization makes it easier to shoot in varying light conditions.
-
----
 
 ### **Key Features to Look for in a Landscape Lens:**
 - **Wide-Angle Focal Length**: Landscape photography often benefits from focal lengths between 14-35mm, allowing you to capture broad scenes.
