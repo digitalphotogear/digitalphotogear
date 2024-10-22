@@ -30,7 +30,7 @@ navbar-links:
     - Portrait Lenses: "portrait-lenses/"
     - Sports Lenses: "sports-lenses/"
     - Macro Lenses: "macro-lenses/"
-  About Me: "aboutme/"
+#  About Me: "aboutme/"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
