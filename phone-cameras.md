@@ -6,7 +6,7 @@ comments: true
 
 This page ranks 13 top ranked cell phone cameras with a 3 lens (ultrawide, wide, telephoto) setup from major brands. Choose whatever manufacturer feels the most comfortable to you. All the phones on this page are good enough for high end use. See [DXOmark](https://www.dxomark.com/smartphones/) for more details about camera performance. I'd recommend sticking with one of the top manufacturers (Google, Apple, Samsung) due to better software support, bugfixes and future updates.
 
-### #1 [Google Pixel 9 Pro XL](https://www.amazon.com/Google-Pixel-Pro-XL-Smartphone/dp/B0D7HSJ7ZP?crid=3UIQYDRYY0K8F&dib=eyJ2IjoiMSJ9.O9Hqo1tiQ6ThQtkeaw4ka3OeW95ijWZWokDDSrAN256kIUIjgT5E2iDX76BuEgwEkDTJrd_iI3iLQIgFCa-tgT1kaqntcR7N4KidC6poIbu7dPoJmeHmULnXQ5LYtrD2Du-86wtpePP8pccAcUqqAGpS1S7POyM1MOF4BXaEgj3kIsIeqTNEEbiK2C9ULqZ7p5Twp8UY7IqoEQ3Gn84dgqUDx_inbE9Hrp74V4TI3io.N_eDNpz4cfWvg5eLf9cFCghJpsXfX0tmmdBRxZBEZyk&dib_tag=se&keywords=pixel%2B9%2Bpro%2Bxl&qid=1726199074&sprefix=pixel%2B9%2Bpro%2Bxl%2B%2Caps%2C245&sr=8-1-spons&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=f50beacf79ac7f8ab6656e0f97b6cfe3&language=en_US&ref_=as_li_ss_tl): $1100-$1550
+### #1 [Google Pixel 9 Pro XL](https://www.amazon.com/Google-Pixel-Pro-XL-Smartphone/dp/B0D7HSJ7ZP?crid=3UIQYDRYY0K8F&dib=eyJ2IjoiMSJ9.O9Hqo1tiQ6ThQtkeaw4ka3OeW95ijWZWokDDSrAN256kIUIjgT5E2iDX76BuEgwEkDTJrd_iI3iLQIgFCa-tgT1kaqntcR7N4KidC6poIbu7dPoJmeHmULnXQ5LYtrD2Du-86wtpePP8pccAcUqqAGpS1S7POyM1MOF4BXaEgj3kIsIeqTNEEbiK2C9ULqZ7p5Twp8UY7IqoEQ3Gn84dgqUDx_inbE9Hrp74V4TI3io.N_eDNpz4cfWvg5eLf9cFCghJpsXfX0tmmdBRxZBEZyk&dib_tag=se&keywords=pixel%2B9%2Bpro%2Bxl&qid=1726199074&sprefix=pixel%2B9%2Bpro%2Bxl%2B%2Caps%2C245&sr=8-1-spons&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=photogear070-20&linkId=f50beacf79ac7f8ab6656e0f97b6cfe3&language=en_US&ref_=as_li_ss_tl): $1100-$1550
 
 - Positives: Currently the highest ranked of the popular phone models in terms of camera performance
 - Negatives: The XL size phones can sometimes be a little large for some pockets
@@ -27,7 +27,7 @@ This page ranks 13 top ranked cell phone cameras with a 3 lens (ultrawide, wide,
 - Links
     - [Official Product Page](https://store.google.com/us/product/pixel_9_pro)
 
-### #2 [Google Pixel 9 Pro](https://www.amazon.com/Google-Pixel-Pro-Unlocked-Smartphone/dp/B0D7HVCD91?crid=2WRXDA897RWH6&dib=eyJ2IjoiMSJ9.WiiuMKA2ha-aRJizbUn49AhUv6-88oxlPmS5ksdh4Q-i72GitxPtI0DmVH-brihBe1zG3wEB3ZbrVIhPuSYm-1wQmrgNAfPMZFEWXJrzJSuu402r2LFhbrmMmpFX8cGPpFfwOxFDSCQN6COyN7qenWpm9zNgdm48kbiTwut6Fz42Ak_zrpwrMF0pm5d8kQtvRJWpP7lddmwyTeChcj2m7kD031UOMjTqplP3cdsp6B0.LiUkIbCWJ0VOAZEJZnDkG4rt35k_bheNEU7JobJBo_8&dib_tag=se&keywords=pixel%2B9%2Bpro&qid=1726200118&sprefix=pixel%2B9%2Bpro%2Caps%2C231&sr=8-1-spons&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rankingspea01-20&linkId=675cf5f4ddbeeec8d8b346ba42d659e3&language=en_US&ref_=as_li_ss_tl): $1000-$1450
+### #2 [Google Pixel 9 Pro](https://www.amazon.com/Google-Pixel-Pro-Unlocked-Smartphone/dp/B0D7HVCD91?crid=2WRXDA897RWH6&dib=eyJ2IjoiMSJ9.WiiuMKA2ha-aRJizbUn49AhUv6-88oxlPmS5ksdh4Q-i72GitxPtI0DmVH-brihBe1zG3wEB3ZbrVIhPuSYm-1wQmrgNAfPMZFEWXJrzJSuu402r2LFhbrmMmpFX8cGPpFfwOxFDSCQN6COyN7qenWpm9zNgdm48kbiTwut6Fz42Ak_zrpwrMF0pm5d8kQtvRJWpP7lddmwyTeChcj2m7kD031UOMjTqplP3cdsp6B0.LiUkIbCWJ0VOAZEJZnDkG4rt35k_bheNEU7JobJBo_8&dib_tag=se&keywords=pixel%2B9%2Bpro&qid=1726200118&sprefix=pixel%2B9%2Bpro%2Caps%2C231&sr=8-1-spons&ufe=app_do%3Aamzn1.fos.1740e8b9-be2d-46a4-a376-9d8efb903409&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=photogear070-20&linkId=675cf5f4ddbeeec8d8b346ba42d659e3&language=en_US&ref_=as_li_ss_tl): $1000-$1450
 
 - Positives: Same as the XL in terms of cameras. Currently the highest ranked of the popular phone models in terms of camera performance
 - Negatives: Screen isn't as big as the XL model, battery is a little smaller
@@ -48,7 +48,7 @@ This page ranks 13 top ranked cell phone cameras with a 3 lens (ultrawide, wide,
 - Links
     - [Official Product Page](https://store.google.com/us/product/pixel_9_pro)
 
-### #3 [Apple iPhone 16 Pro Max](https://www.amazon.com/s?k=iphone+16+pro+max&crid=JSNB7WG5N6ZQ&sprefix=iphone+16+pro+ma%2Caps%2C192&linkCode=ll2&tag=rankingspea01-20&linkId=c717613cc4b80cdb599535fab71a6b14&language=en_US&ref_=as_li_ss_tl): $1200+
+### #3 [Apple iPhone 16 Pro Max](https://www.amazon.com/s?k=iphone+16+pro+max&crid=JSNB7WG5N6ZQ&sprefix=iphone+16+pro+ma%2Caps%2C192&linkCode=ll2&tag=photogear070-20&linkId=c717613cc4b80cdb599535fab71a6b14&language=en_US&ref_=as_li_ss_tl): $1200+
 - Positives: Latest iPhone with upgraded camera, display, and performance enhancements.
 - Negatives: Expensive, larger size can be unwieldy for some users.
 - Dimensions: 6.8 x 3.06 x 0.31 inches / 174.5 x 77.4 x 7.9 mm
@@ -64,7 +64,7 @@ This page ranks 13 top ranked cell phone cameras with a 3 lens (ultrawide, wide,
 - Charging: 30W wired via USB-C, MagSafe and Qi wireless charging
 - Links: [Apple iPhone 16 Pro](https://www.apple.com)
 
-### #4 [Apple iPhone 16 Pro](https://www.amazon.com/s?k=iphone+16+pro&crid=JSNB7WG5N6ZQ&sprefix=iphone+16+pro+ma%2Caps%2C192&linkCode=ll2&tag=rankingspea01-20&linkId=c717613cc4b80cdb599535fab71a6b14&language=en_US&ref_=as_li_ss_tl): $1000+
+### #4 [Apple iPhone 16 Pro](https://www.amazon.com/s?k=iphone+16+pro&crid=JSNB7WG5N6ZQ&sprefix=iphone+16+pro+ma%2Caps%2C192&linkCode=ll2&tag=photogear070-20&linkId=c717613cc4b80cdb599535fab71a6b14&language=en_US&ref_=as_li_ss_tl): $1000+
 - Positives: Slightly more compact, retains key features of the Pro Max at a lower price.
 - Negatives: Smaller battery compared to the Pro Max.
 - Dimensions: 6.33 x 3.02 x 0.31 inches / 160.8 x 77.1 x 7.9 mm
@@ -80,7 +80,7 @@ This page ranks 13 top ranked cell phone cameras with a 3 lens (ultrawide, wide,
 - Charging: 30W wired via USB-C, MagSafe and Qi wireless charging
 - Links: [Apple iPhone 16 Pro](https://www.apple.com)
 
-### #5 [Apple iPhone 15 Pro Max](https://www.amazon.com/s?k=iphone+15+pro+max&crid=JSNB7WG5N6ZQ&sprefix=iphone+15+pro+ma%2Caps%2C192&linkCode=ll2&tag=rankingspea01-20&linkId=c717613cc4b80cdb599535fab71a6b14&language=en_US&ref_=as_li_ss_tl): $1000+
+### #5 [Apple iPhone 15 Pro Max](https://www.amazon.com/s?k=iphone+15+pro+max&crid=JSNB7WG5N6ZQ&sprefix=iphone+15+pro+ma%2Caps%2C192&linkCode=ll2&tag=photogear070-20&linkId=c717613cc4b80cdb599535fab71a6b14&language=en_US&ref_=as_li_ss_tl): $1000+
 - Positives: High camera performance, popular among professional photographers
 - Negatives: Expensive and large form factor may not be suitable for everyone
 - Dimensions: 6.3 x 3 x 0.3 inches / 160.8 x 77.6 x 7.9 mm
@@ -100,7 +100,7 @@ This page ranks 13 top ranked cell phone cameras with a 3 lens (ultrawide, wide,
 - Links: [Apple iPhone 15 Pro](https://www.apple.com)
 
 
-### #6 [Apple iPhone 15 Pro](https://www.amazon.com/s?k=iphone+15+pro&crid=JSNB7WG5N6ZQ&sprefix=iphone+15+pro+ma%2Caps%2C192&linkCode=ll2&tag=rankingspea01-20&linkId=c717613cc4b80cdb599535fab71a6b14&language=en_US&ref_=as_li_ss_tl): $714+
+### #6 [Apple iPhone 15 Pro](https://www.amazon.com/s?k=iphone+15+pro&crid=JSNB7WG5N6ZQ&sprefix=iphone+15+pro+ma%2Caps%2C192&linkCode=ll2&tag=photogear070-20&linkId=c717613cc4b80cdb599535fab71a6b14&language=en_US&ref_=as_li_ss_tl): $714+
 - Positives: A17 Pro chip, 48 MP camera, smooth continuous zoom
 - Negatives: Limited to 3x zoom, incremental improvements
 - Dimensions: 146.6 x 70.6 x 8.3 mm
@@ -119,7 +119,7 @@ This page ranks 13 top ranked cell phone cameras with a 3 lens (ultrawide, wide,
 - IP Rating: IP68
 - Links: [Apple iPhone 15 Pro](https://www.apple.com)
 
-### #7 [Google Pixel 8 Pro](https://www.amazon.com/s?k=pixel+8+pro&crid=2BUY9IQ8BB8D5&sprefix=pixel+8+pro%2Caps%2C161&linkCode=ll2&tag=rankingspea01-20&linkId=0d94dc129ecc70956f4d875d1a780b6a&language=en_US&ref_=as_li_ss_tl): $624+
+### #7 [Google Pixel 8 Pro](https://www.amazon.com/s?k=pixel+8+pro&crid=2BUY9IQ8BB8D5&sprefix=pixel+8+pro%2Caps%2C161&linkCode=ll2&tag=photogear070-20&linkId=0d94dc129ecc70956f4d875d1a780b6a&language=en_US&ref_=as_li_ss_tl): $624+
 - Positives: Superb camera system, Tensor G3 chip, refined software experience
 - Negatives: Slightly heavier than previous models, expensive
 - Dimensions: 162.6 x 76.5 x 8.8 mm
@@ -138,7 +138,7 @@ This page ranks 13 top ranked cell phone cameras with a 3 lens (ultrawide, wide,
 - IP Rating: IP68
 - Links: [Google Store](https://store.google.com)
 
-### #8 [Google Pixel 7 Pro](https://www.amazon.com/s?k=pixel+7+pro&crid=34XXZSZEYVBFE&sprefix=pixel+%2Caps%2C164&linkCode=ll2&tag=rankingspea01-20&linkId=e5e7ce4de9b948cba81e6c615f756c80&language=en_US&ref_=as_li_ss_tl): $317+
+### #8 [Google Pixel 7 Pro](https://www.amazon.com/s?k=pixel+7+pro&crid=34XXZSZEYVBFE&sprefix=pixel+%2Caps%2C164&linkCode=ll2&tag=photogear070-20&linkId=e5e7ce4de9b948cba81e6c615f756c80&language=en_US&ref_=as_li_ss_tl): $317+
 - Positives: Impressive camera system, great display, Tensor G2 chip
 - Negatives: Battery life could be improved, large size
 - Dimensions: 162.9 x 76.6 x 8.9 mm
@@ -157,7 +157,7 @@ This page ranks 13 top ranked cell phone cameras with a 3 lens (ultrawide, wide,
 - IP Rating: IP68
 - Links: [Google Store](https://store.google.com)
 
-### #9 [Apple iPhone 14 Pro Max](https://www.amazon.com/s?k=iphone+14+pro+max&crid=7KTABZ8E3WAX&sprefix=iphone+14+pro+ma%2Caps%2C166&linkCode=ll2&tag=rankingspea01-20&linkId=44ec782662b249daa8469ff9aa42fd32&language=en_US&ref_=as_li_ss_tl): $711+
+### #9 [Apple iPhone 14 Pro Max](https://www.amazon.com/s?k=iphone+14+pro+max&crid=7KTABZ8E3WAX&sprefix=iphone+14+pro+ma%2Caps%2C166&linkCode=ll2&tag=photogear070-20&linkId=44ec782662b249daa8469ff9aa42fd32&language=en_US&ref_=as_li_ss_tl): $711+
 
 - Positives: Dynamic Island, always-on display, powerful A16 Bionic chip, excellent camera system
 - Negatives: Heavy, expensive
@@ -177,7 +177,7 @@ This page ranks 13 top ranked cell phone cameras with a 3 lens (ultrawide, wide,
 - IP Rating: IP68
 
 
-### #10 [Apple iPhone 14 Pro](https://www.amazon.com/s?k=iphone+14+pro&crid=7KTABZ8E3WAX&sprefix=iphone+14+pro+ma%2Caps%2C166&linkCode=ll2&tag=rankingspea01-20&linkId=44ec782662b249daa8469ff9aa42fd32&language=en_US&ref_=as_li_ss_tl): $680+
+### #10 [Apple iPhone 14 Pro](https://www.amazon.com/s?k=iphone+14+pro&crid=7KTABZ8E3WAX&sprefix=iphone+14+pro+ma%2Caps%2C166&linkCode=ll2&tag=photogear070-20&linkId=44ec782662b249daa8469ff9aa42fd32&language=en_US&ref_=as_li_ss_tl): $680+
 - Positives: Dynamic Island, A16 Bionic chip, always-on display, great camera performance
 - Negatives: No major design changes, expensive
 - Dimensions: 147.5 x 71.5 x 7.9 mm
@@ -196,7 +196,7 @@ This page ranks 13 top ranked cell phone cameras with a 3 lens (ultrawide, wide,
 - IP Rating: IP68
 - Links: [Apple iPhone 14 Pro](https://www.apple.com)
 
-### #11 [Samsung Galaxy S24 Ultra](https://www.amazon.com/s?k=samsung+galaxy+s24+ultra&crid=VH1CJ4IA0GAV&sprefix=samsung+galaxy+%2Caps%2C187&linkCode=ll2&tag=rankingspea01-20&linkId=caae57ded3132db57d9c37875d68be7e&language=en_US&ref_=as_li_ss_tl): $1195+
+### #11 [Samsung Galaxy S24 Ultra](https://www.amazon.com/s?k=samsung+galaxy+s24+ultra&crid=VH1CJ4IA0GAV&sprefix=samsung+galaxy+%2Caps%2C187&linkCode=ll2&tag=photogear070-20&linkId=caae57ded3132db57d9c37875d68be7e&language=en_US&ref_=as_li_ss_tl): $1195+
 - Positives: Stunning display, powerful performance, excellent zoom capabilities
 - Negatives: Expensive, large and heavy
 - Dimensions: 163.4 x 78.1 x 8.9 mm
@@ -215,7 +215,7 @@ This page ranks 13 top ranked cell phone cameras with a 3 lens (ultrawide, wide,
 - IP Rating: IP68
 - Links: [Samsung Galaxy S24 Ultra](https://www.samsung.com)
 
-### #12 [Apple iPhone 13 Pro Max](https://www.amazon.com/s?k=iphone+13+pro+max&crid=3AFBKJT8GUCMK&sprefix=iphone+13+pro+ma%2Caps%2C238&linkCode=ll2&tag=rankingspea01-20&linkId=7253b041882171ff19952e876681e053&language=en_US&ref_=as_li_ss_tl)
+### #12 [Apple iPhone 13 Pro Max](https://www.amazon.com/s?k=iphone+13+pro+max&crid=3AFBKJT8GUCMK&sprefix=iphone+13+pro+ma%2Caps%2C238&linkCode=ll2&tag=photogear070-20&linkId=7253b041882171ff19952e876681e053&language=en_US&ref_=as_li_ss_tl)
 
 - Positives: Powerful A15 Bionic chip, great battery life, ProMotion display
 - Negatives: Heavy, expensive
@@ -235,7 +235,7 @@ This page ranks 13 top ranked cell phone cameras with a 3 lens (ultrawide, wide,
 - IP Rating: IP68
 - Links: [Apple iPhone 13 Pro Max](https://www.apple.com)
 
-### #13 [Apple iPhone 13 Pro](https://www.amazon.com/s?k=iphone+13+pro&crid=7KTABZ8E3WAX&sprefix=iphone+13+pro+ma%2Caps%2C166&linkCode=ll2&tag=rankingspea01-20&linkId=44ec782662b249daa8469ff9aa42fd32&language=en_US&ref_=as_li_ss_tl): $680+
+### #13 [Apple iPhone 13 Pro](https://www.amazon.com/s?k=iphone+13+pro&crid=7KTABZ8E3WAX&sprefix=iphone+13+pro+ma%2Caps%2C166&linkCode=ll2&tag=photogear070-20&linkId=44ec782662b249daa8469ff9aa42fd32&language=en_US&ref_=as_li_ss_tl): $680+
 
 - Positives: Powerful A15 Bionic chip, ProMotion display, excellent cameras
 - Negatives: Expensive, no major design changes
