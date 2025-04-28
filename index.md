@@ -31,7 +31,7 @@ Fixed lens cameras do still have a time and place, although they are being squas
 
 Come join us on Reddit in [r/DigitalPhotoGear](https://www.reddit.com/r/DigitalPhotoGear/)
 
-Currently working on another product website [www.summarizereviews.com](https://www.summarizereviews.com/)
+Currently working on another product website [SummarizeReviews](/summarize-reviews/)
 
 Thanks for stopping by!
 
