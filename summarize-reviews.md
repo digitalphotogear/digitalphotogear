@@ -1,6 +1,6 @@
 ---
 layout: page
-title: SummarizeReviews.com: Simplifying Product Research for Smarter Shopping
+title: SummarizeReviews.com Simplifying Product Research for Smarter Shopping
 comments: true
 ---
 
