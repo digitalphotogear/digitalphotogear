@@ -1,0 +1,322 @@
+---
+layout: null
+---
+
+/* =========================================================
+   Digital Photo Gear — custom theme
+   Loaded after beautifuljekyll.css, so declarations here
+   win the cascade without needing !important.
+   ========================================================= */
+
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,600;0,9..144,700;0,9..144,900;1,9..144,600&family=Inter:wght@400;500;600;700;800&display=swap');
+
+:root {
+  --body-font: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
+  --header-font: 'Fraunces', Georgia, 'Times New Roman', serif;
+
+  --accent: #c1611f;
+  --accent-dark: #8f4715;
+  --accent-soft: #f3e3d3;
+  --ink: #221c15;
+  --ink-soft: #6b6156;
+  --paper: #fbf8f3;
+  --paper-alt: #f2ece2;
+  --line: #e6ddce;
+  --navy: #17191d;
+  --navy-soft: #262a30;
+}
+
+/* --- Base --- */
+
+body {
+  font-size: 1.0625rem;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 700;
+  letter-spacing: -0.01em;
+  color: var(--ink);
+}
+
+main a {
+  font-weight: 600;
+  text-decoration-thickness: 1.5px;
+  text-underline-offset: 2px;
+}
+
+::selection {
+  background-color: var(--accent-soft);
+  color: var(--accent-dark);
+}
+
+/* --- Navbar --- */
+
+.navbar-custom {
+  background-color: rgba(23, 25, 29, 0.92) !important;
+  backdrop-filter: saturate(180%) blur(10px);
+  -webkit-backdrop-filter: saturate(180%) blur(10px);
+  border-bottom: 1px solid var(--navy-soft);
+}
+
+.navbar-custom .navbar-brand {
+  font-family: var(--header-font);
+  font-weight: 700;
+  font-size: 1.4rem;
+  letter-spacing: -0.01em;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.navbar-custom .navbar-brand::before {
+  font-family: "Font Awesome 6 Free";
+  font-weight: 900;
+  content: "\f030";
+  color: var(--accent);
+  font-size: 1.05rem;
+}
+
+.navbar-custom .navbar-nav .nav-link {
+  font-family: var(--body-font);
+  font-weight: 600;
+  font-size: 0.9rem;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+  padding: 0.35rem 0.1rem;
+  position: relative;
+}
+
+@media (min-width: 1200px) {
+  .navbar-custom .navbar-nav .nav-item {
+    margin: 0 0.85rem;
+  }
+}
+
+.navbar-custom .navbar-brand:hover,
+.navbar-custom .navbar-brand:focus,
+.navbar-custom .navbar-nav .nav-link:hover,
+.navbar-custom .navbar-nav .nav-link:focus {
+  color: var(--accent) !important;
+}
+
+.navbar-custom .nav-item.dropdown .dropdown-menu {
+  background-color: var(--navy);
+  border: 1px solid var(--navy-soft);
+  border-radius: 0.5rem;
+  overflow: hidden;
+  padding: 0.35rem 0;
+}
+
+.navbar-custom .nav-item.dropdown .dropdown-menu .dropdown-item {
+  font-family: var(--body-font);
+  font-weight: 500;
+  font-size: 0.92rem;
+}
+
+.navbar-custom .nav-item.dropdown .dropdown-menu .dropdown-item:hover,
+.navbar-custom .nav-item.dropdown .dropdown-menu .dropdown-item:focus {
+  background-color: var(--navy-soft);
+  color: var(--accent);
+}
+
+/* --- Page header --- */
+
+.intro-header {
+  margin-top: 6.5rem;
+}
+@media (min-width: 1200px) {
+  .intro-header {
+    margin-top: 8.5rem;
+  }
+}
+
+.intro-header .page-heading h1,
+.intro-header .post-heading h1 {
+  font-family: var(--header-font);
+  font-weight: 900;
+  font-size: 2.75rem;
+}
+
+.intro-header .page-heading hr.small {
+  border-color: var(--accent);
+  width: 3.5rem;
+  height: 0.2rem;
+}
+
+.intro-header .page-heading .page-subheading {
+  color: var(--ink-soft);
+  font-weight: 400;
+  font-size: 1.2rem;
+}
+
+/* --- Content cards: turn gear list entries into structured spec cards ---
+   NOTE on specificity: every rule below excludes utility lists with a single
+   comma-separated :not(...) (one class of specificity), so nested-list resets
+   can reliably out-rank the top-level card rule just by adding one more
+   ancestor "li" to the selector. Avoid chaining multiple :not() calls here. */
+
+main :where(ol, ul):not(.pagination, .posts-list, .list-inline, .dropdown-menu) {
+  list-style: none;
+  padding-left: 0;
+  margin: 1.5rem 0;
+}
+
+main ol:not(.pagination, .posts-list) {
+  counter-reset: item;
+}
+
+main :where(ol, ul):not(.pagination, .posts-list, .list-inline, .dropdown-menu) > li {
+  background: #fff;
+  border: 1px solid var(--line);
+  border-left: 0.25rem solid var(--accent);
+  border-radius: 0.5rem;
+  padding: 1.15rem 1.4rem;
+  margin: 0 0 0.9rem;
+  box-shadow: 0 1px 2px rgba(34, 28, 21, 0.05);
+  transition: box-shadow 0.15s ease, border-color 0.15s ease;
+}
+
+main ol:not(.pagination, .posts-list) > li {
+  counter-increment: item;
+}
+
+main :where(ol, ul):not(.pagination, .posts-list, .list-inline, .dropdown-menu) > li:hover {
+  box-shadow: 0 4px 14px rgba(34, 28, 21, 0.09);
+  border-left-color: var(--accent-dark);
+}
+
+main :where(ol, ul):not(.pagination, .posts-list, .list-inline, .dropdown-menu) > li > a:first-child {
+  font-family: var(--header-font);
+  font-size: 1.15rem;
+  font-weight: 700;
+  color: var(--ink);
+  text-decoration: none;
+  display: inline-block;
+}
+
+main ol:not(.pagination, .posts-list) > li > a:first-child::before {
+  content: counter(item, decimal-leading-zero) "\a0 \a0 ";
+  color: var(--accent);
+  font-family: var(--header-font);
+  font-weight: 700;
+  letter-spacing: 0.02em;
+}
+
+main :where(ol, ul):not(.pagination, .posts-list, .list-inline, .dropdown-menu) > li > a:first-child:hover {
+  color: var(--accent);
+}
+
+/* Nested spec lists inside a card revert to plain, compact styling.
+   Each selector below adds one extra ancestor "li" versus its top-level
+   counterpart above, which keeps the class-count tied and wins on elements. */
+
+main :where(ol, ul):not(.pagination, .posts-list, .list-inline, .dropdown-menu) li :where(ol, ul) {
+  margin: 0.65rem 0 0.15rem;
+  padding-left: 0;
+}
+
+main :where(ol, ul):not(.pagination, .posts-list, .list-inline, .dropdown-menu) li :where(ol, ul) > li {
+  background: none;
+  border: none;
+  border-radius: 0;
+  box-shadow: none;
+  padding: 0.2rem 0;
+  margin: 0;
+  font-size: 0.98rem;
+  color: var(--ink-soft);
+}
+
+main :where(ol, ul):not(.pagination, .posts-list, .list-inline, .dropdown-menu) li :where(ol, ul) > li::before {
+  content: "\2013\a0 ";
+  color: var(--accent);
+  font-weight: 700;
+}
+
+main :where(ol, ul):not(.pagination, .posts-list, .list-inline, .dropdown-menu) li :where(ol, ul) > li:hover {
+  box-shadow: none;
+  border-left-color: transparent;
+}
+
+main :where(ol, ul):not(.pagination, .posts-list, .list-inline, .dropdown-menu) li :where(ol, ul) > li strong {
+  color: var(--ink);
+  font-weight: 700;
+}
+
+/* --- Section headings inside guides (e.g. "For Sony (E-mount)") --- */
+
+main h3 {
+  font-family: var(--header-font);
+  font-size: 1.35rem;
+  margin-top: 3rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid var(--line);
+}
+
+main h3 strong {
+  font-weight: 700;
+}
+
+/* --- Blockquotes / callouts --- */
+
+blockquote {
+  border-left: 0.28rem solid var(--accent);
+  padding: 0.5rem 0 0.5rem 1.15rem;
+  color: var(--ink-soft);
+}
+
+/* --- Tables --- */
+
+table {
+  border: 1px solid var(--line);
+  border-radius: 0.5rem;
+  overflow: hidden;
+}
+table tr th {
+  background-color: var(--navy);
+  color: #fff;
+}
+table tr:nth-child(2n) {
+  background-color: var(--paper-alt);
+}
+
+/* --- Footer --- */
+
+footer {
+  background-color: var(--navy);
+  border-top: 1px solid var(--navy-soft);
+  margin-top: 4rem;
+}
+
+footer .copyright,
+footer .theme-by {
+  font-family: var(--body-font);
+}
+
+/* --- Misc --- */
+
+hr {
+  border-color: var(--line);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --page-col: #16140f;
+    --text-col: #e7e0d3;
+    --paper: #16140f;
+    --paper-alt: #1e1b15;
+    --line: #332d22;
+    --ink: #f1ece1;
+    --ink-soft: #b4aa98;
+  }
+
+  main :where(ol, ul):not(.pagination):not(.posts-list):not(.list-inline):not(.dropdown-menu) > li {
+    background: #1c1912;
+    border-color: var(--line);
+    box-shadow: none;
+  }
+
+  table tr:nth-child(2n) {
+    background-color: var(--paper-alt);
+  }
+}

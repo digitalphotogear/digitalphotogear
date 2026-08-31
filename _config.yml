@@ -146,17 +146,17 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
-navbar-border-col: "#DDDDDD"
-page-col: "#FFFFFF"
-text-col: "#404040"
-link-col: "#008AFF"
-hover-col: "#0085A1"
-footer-col: "#EAEAEA"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
-footer-hover-col: "#0085A1"
+navbar-col: "#17191D"
+navbar-text-col: "#EDE7DD"
+navbar-border-col: "#262A30"
+page-col: "#FBF8F3"
+text-col: "#221C15"
+link-col: "#C1611F"
+hover-col: "#8F4715"
+footer-col: "#17191D"
+footer-text-col: "#B4AA98"
+footer-link-col: "#EDE7DD"
+footer-hover-col: "#C1611F"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
@@ -166,11 +166,11 @@ footer-hover-col: "#0085A1"
 #page-img: "/assets/img/bgimage.png"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
-#mobile-theme-col: "#0085A1"
+mobile-theme-col: "#17191D"
 
 # For any extra visual customization, you can include additional CSS files in every page on your site. List any custom CSS files here
-#site-css:
-#  - "/assets/css/custom-styles.css"
+site-css:
+  - "/assets/css/custom-theme.css"
 
 # If you have common JavaScript files that should be included in every page, list them here
 #site-js:
